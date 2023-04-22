@@ -42,7 +42,7 @@ NO_DLR,  NO_HASH,  NO_PERC,  NO_LCBR,  NO_RCBR,  NO_PIPE,         K25,  K26,  K2
 ) \
 LAYOUT_split_3x6_3( \
 XXX,  NO_TILD,  K01,  K02,  K03,  NO_CIRC,         K05,  K06,  K07,  K08,  K09,  XXX, \
-XXX,  NO_GRV,  K11,  K12,  K13,  NO_EQL,         K15,  K16,  K17,  K18,  K19,  XXX, \
-XXX,  KC_0,  K21,  K22,  K23,  NO_PLUS,         K25,  K26,  K27,  K28,  K29,  XXX , \
+XXX,  NO_GRV,  K11,  K12,  K13,  NO_EQL,         K15,  KC_LSFT,  KC_LGUI,  KC_LALT,  KC_LCTL,  XXX, \
+XXX,  KC_0,  K21,  K22,  K23,  NO_PLUS,         K25,  K26,  K27,  K28,  K29,  XXX, \
                   NO_LBRC,  NO_RBRC,  NO_BSLS,         K35,  K36,  K37 \
 )
