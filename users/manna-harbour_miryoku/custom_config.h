@@ -14,9 +14,9 @@
       N30,  N31,  K32,  K33,  K34,         K35,  K36,  K37,  N38,  N39 \
 ) \
 LAYOUT_split_3x6_3( \
-QK_CAPS_WORD_TOGGLE,  K00,  K01,  K02,  K03,  K04,         K05,  K06,  K07,  K08,  K09,  KC_LBRC, \
-OSM(MOD_LSFT),  LCTL_T(KC_A),  LALT_T(KC_S),  LGUI_T(KC_D),  LSFT_T(KC_F),  K14,  K15,  LSFT_T(KC_J),  LGUI_T(KC_K),  LALT_T(KC_L),  LCTL_T(KC_SCLN),  KC_QUOT, \
-XXX,  K20,  K21,  K22,  K23,  K24,         K25,  K26,  KC_COMMA,  KC_DOT,  KC_MINUS,  XXX, \
+QK_CAPS_WORD_TOGGLE,  KC_Q,  KC_W, KC_F,  KC_P,  KC_B,         KC_Y,  KC_J,  KC_K,  KC_L,  KC_SCLN,  KC_LBRC, \
+OSM(MOD_LSFT),  LCTL_T(KC_A),  LALT_T(KC_R),  LGUI_T(KC_S),  LSFT_T(KC_T),  KC_G,  KC_H,  LSFT_T(KC_N),  LGUI_T(KC_E),  LALT_T(KC_O),  LCTL_T(KC_I),  KC_QUOT, \
+XXX,  KC_Z,  KC_X,  KC_C,  KC_D,  KC_V,         KC_M,  KC_U,  KC_COMMA,  KC_DOT,  KC_MINUS,  XXX, \
 LT(U_MOUSE,KC_TAB),  LT(U_NAV,KC_ESC),  LT(U_MEDIA,KC_SPC),  LT(U_NUM,KC_BSPC),  LT(U_SYM,KC_ENT),  K37 \
 )
 
